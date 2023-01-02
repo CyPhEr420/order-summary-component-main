@@ -30,7 +30,9 @@ body {
   width: 450px;
   border-radius: 15px;
   overflow: hidden;
+  height: 650px;
   background: #ffffff;
+  min-width: 350px;
 }
 
 .card-img {
